@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack projects<br>🤝 I’m looking for help with the experts<br>🌱 I’m currently learning Deep learning algorithms<br>💬 Ask me about Front-end development<br>⚡ Fun fact "I Love to code"
-
+🔭 I’m currently working on Full stack projects<br>🤝 I’m looking for help with the experts<br>🌱 I’m currently learning Deep learning algorithms<br>💬 Ask me about Front-end development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sri_ee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srisanjana-arunkumar) 
